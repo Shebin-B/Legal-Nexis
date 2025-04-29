@@ -1,4 +1,4 @@
-Legal Nexis – MERN Stack Legal Case Management System  
+Legal Nexis – Freelance attorney hiring system 
 A centralized platform for managing legal cases, clients, and lawyer tasks. Developed to streamline law firm operations and improve workflow visibility.
 
 🌟 Features  
