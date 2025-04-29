@@ -1,0 +1,84 @@
+
+#title{    width: 198px;
+    margin-left: 56px;
+}
+
+.container101 {
+    max-width: 100%; /* Ensures the container does not exceed the viewport width */
+    overflow-x: auto; /* Adds horizontal scroll if the table is too wide */
+    padding: 10px; /* Adds some padding around the container */
+}
+
+.nav{
+    width: 192px;
+    font-size: 18px;
+
+    padding-top: -19px;
+    margin-bottom: 6px;
+    margin-top: -12px;
+    margin-left: 56px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 25px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+button {
+    background-color: #f44;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: rgb(3, 176, 64);
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(49, 69, 218);
+}
+.button1:hover {
+    background-color: rgb(49, 69, 218);
+}
+
+
